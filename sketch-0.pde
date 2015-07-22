@@ -8,7 +8,7 @@ whatever you want with it: copy it, modify it, share it, sell it, engrave it
 on your Rolls Royce or tattoo it on your back without fearing a lawsuit.
 
 Author: Santiago Martin, 2015.
-DISCLAIMER: This code comes as is and with no warrants.
+DISCLAIMER: This code comes as is and with no warranty.
 I will take no responsibility if it happens to blow up your computer or
 mutates your DNA.
 */
