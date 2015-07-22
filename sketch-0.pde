@@ -3,7 +3,7 @@ This is my first Processing exercise and I've done with just (a tone of) lines
 and circles. If you find some other element that is not either a line or
 a circle, contact me and I'll call the Processing Police.
 
-This exercise is released under a Public Domain license, s you can do
+This exercise is released under a Public Domain license, so you can do
 whatever you want with it: copy it, modify it, share it, sell it, engrave it
 on your Rolls Royce or tattoo it on your back without fearing a lawsuit.
 
